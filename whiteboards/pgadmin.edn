@@ -1,0 +1,82 @@
+{:blocks (
+{:block/content "Make sure that the worker admin works"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64640280-8502-4190-bcfc-918ed5c83dac"}
+:block/parent 
+{:block/uuid #uuid "64640280-8502-4190-bcfc-918ed5c83dac"}
+:block/properties 
+{}
+:block/uuid #uuid "64640296-fe07-488a-b54a-1a7c2f776c08"} 
+{:block/created-at 1684275862698
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64640296-fe07-488a-b54a-1a7c2f776c08"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6602f850-f438-11ed-bb1e-45e3c43bd2e6"
+:noFill false
+:point [190.5 164.5]
+:parentId "64640280-8502-4190-bcfc-918ed5c83dac"
+:collapsedHeight 0
+:nonce 1684275858520}}
+:block/updated-at 1684275862698} 
+{:block/created-at 1684275890112
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "sd"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "73dd43e0-f438-11ed-bb1e-45e3c43bd2e6"
+:noFill false
+:point [286.5 246.5]
+:parentId "64640280-8502-4190-bcfc-918ed5c83dac"
+:collapsedHeight 0
+:nonce 1684275881773}}
+:block/updated-at 1684275890112})
+:pages (
+{:block/uuid #uuid "64640280-8502-4190-bcfc-918ed5c83dac"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64640280-8502-4190-bcfc-918ed5c83dac"
+:name "pgadmin"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("6602f850-f438-11ed-bb1e-45e3c43bd2e6" "73dd43e0-f438-11ed-bb1e-45e3c43bd2e6")}}
+:block/updated-at 1684275890112
+:block/created-at 1684275840788
+:block/type "whiteboard"
+:block/name "pgadmin"
+:block/original-name "pgadmin"})}
